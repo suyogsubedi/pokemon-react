@@ -2,9 +2,9 @@
 https://suyogsubedi.github.io/pokemon-react/  
 Refresh the page and the app will decide a winner randomly on the basis of pokemon you got. First Row can be player 1 and the Second Row can be player 2  
 This is a project made from a code along tutorial with Colt Stele  
-#This was more for learning how to deploy react sites on  github.  
+# This was more for learning how to deploy react sites on  github.  
 
-#The following is guide for myself to host React sites to github (can't host if it is private)  
+# The following is guide for myself to host React sites to github (can't host if it is private)  
 
 1. Make a repo at github and then add the remote inside of the application  
 2. Need to install a dependency  
